@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyYelp</string>
+    <string name="sort_by_txt">Sort By:</string>
+    <string name="sorting_spinner_txt">Sorting Spinner</string>
+    <string name="search_txt">Search text</string>
+    <string-array name="sorting_array">
+        <item>"Rating"</item>
+        <item>"Price"</item>
+    </string-array>
+</resources>
